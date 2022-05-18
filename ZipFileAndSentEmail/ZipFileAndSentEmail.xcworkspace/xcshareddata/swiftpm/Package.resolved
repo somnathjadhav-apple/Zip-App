@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "ziparchive",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ZipArchive/ZipArchive.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "38e0ce0598e06b034271f296a8e15b149c91aa19"
+      }
+    }
+  ],
+  "version" : 2
+}
